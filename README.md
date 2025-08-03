@@ -29,14 +29,13 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+## Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
-### Links
+## Deployment
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Vercel: [Live site](https://product-list-with-cart-coral-kappa.vercel.app/)
 
 ## My process
 
@@ -44,7 +43,7 @@ I started simple, beginning with basic HTML and CSS to understand the design req
 
 As the project grew more complex, I organized the code by breaking down the UI into reusable React components, making the codebase more maintainable and easier to work with. I then made it responsive, ensuring the application worked perfectly on both mobile and desktop devices, providing a great user experience across all screen sizes.
 
-### Built with
+## Built with
 
 - React 18 - Frontend framework
 - Vite - Build tool and development server
@@ -52,23 +51,23 @@ As the project grew more complex, I organized the code by breaking down the UI i
 - CSS3 - Styling with responsive design
 - ESLint & Prettier - Code quality and formatting
 
-### What I learned
+## What I learned
 
 - How to structure a React application with proper component organization
 - Best practices for state management in shopping cart applications
 - The importance of responsive design and accessibility
 - How to use modern development tools like Vite, ESLint, and Prettier
 
-### The Reducer Pattern
+## The Reducer Pattern
 
-## "Smart organizer"
+### "Smart organizer"
 
 - You have stuff (state) and want to change it (action)
 - The reducer is like a smart assistant that knows exactly how to update your stuff
 - It checks what you want to do and applies the right rules
 - Keeps everything neat and prevents messes
 
-# Cart example:
+### Cart example:
 
 - You want to add a dessert
 - The reducer checks: "Do I already have this?"
@@ -103,9 +102,9 @@ function reducer(state, action) {
 ```
 
 
-### Continued development
+## Continued development
 
-## Next Steps:
+### Next Steps:
 
 I'm planning to migrate this project to TypeScript for enhanced type safety and better developer experience. 
 
@@ -125,7 +124,7 @@ Benefits of TypeScript:
 - Enhanced team collaboration with clear contracts
 - More maintainable codebase as the project grows
 
-### Useful resources
+## Useful resources
 
 - [Learning React](https://react.dev/learn) - Official Guide
 - [Learning Vite](https://vite.dev/guide) - Official Guide
