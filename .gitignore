@@ -106,3 +106,6 @@ jspm_packages/
 # Temporary folders
 tmp/
 temp/
+
+# Documentation files
+style-guide.md
