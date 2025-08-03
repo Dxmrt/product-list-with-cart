@@ -36,6 +36,7 @@ Users should be able to:
 ## Deployment
 
 - Vercel: [Live site](https://product-list-with-cart-vite-js.vercel.app/)
+- Solution: [Frontend Mentor solution](https://product-list-with-cart.vercel.app/)
 
 ## My process
 
