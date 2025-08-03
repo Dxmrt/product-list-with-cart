@@ -35,7 +35,7 @@ Users should be able to:
 
 ## Deployment
 
-- Vercel: [Live site](https://product-list-with-cart-coral-kappa.vercel.app/)
+- Vercel: [Live site](https://product-list-with-cart-vite-js.vercel.app/)
 
 ## My process
 
